@@ -1,3 +1,5 @@
+# 公众号地址 
+- [https://mp.weixin.qq.com/s/CXp6Q2pxo3Pc7yQg4gM1vw](https://mp.weixin.qq.com/s/CXp6Q2pxo3Pc7yQg4gM1vw)
 # roomManager
 基于websocket的房间连接管理机制
 
